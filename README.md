@@ -1,4 +1,2 @@
 # CSC154\_Nuno\_Ribeiro
-
-Welcome to Branch 1
-
+Hello Branch 2! Welcome to Branch 1
